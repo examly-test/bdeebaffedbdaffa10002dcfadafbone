@@ -1,0 +1,1 @@
+projecy2 has the PromiseRejectionEvent
